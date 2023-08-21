@@ -1,3 +1,9 @@
+<!--
+ * @CreateDate: 2023-08-21 13:41:14
+ * @LastEditors: xianzhiding xianzhiding@qq.com
+ * @LastEditTime: 2023-08-21 14:34:58
+ * @FilePath: \w3cbest.github.iod:\Application\frontend\answer-sheet\README.md
+-->
 # answer-project
 
 ## Project setup
@@ -23,4 +29,5 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### <!-- <%@ page contentType="text/html; charset=utf-8" %> -->
+### Page
+<img src="page.jpg">
